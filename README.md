@@ -60,32 +60,32 @@ parabank-qa-portfolio
 ### Login Page
 The login page of the ParaBank application used for authentication testing.
 
-![Login Page](docs/screenshots/login-page.png)
+![Login Page](Docs/screenshots/login-page.png)
 
 ### Register Page
 The user registration page used for new customer account creation testing.
 
-![Register Page](docs/screenshots/register-page.png)
+![Register Page](Docs/screenshots/register-page.png)
 
 ### Transfer Funds
 Transfer Funds feature used for positive and negative transaction testing.
 
-![Transfer Funds](docs/screenshots/transfer-funds-feature.png)
+![Transfer Funds](Docs/screenshots/transfer-funds-feature.png)
 
 ### Automation Execution
 Selenium WebDriver executing automated UI tests in Google Chrome.
 
-![Automation Running](docs/screenshots/automation-execution.png)
+![Automation Running](Docs/screenshots/automation-execution.png)
 
 ### Extent Report
 HTML execution report generated after automation testing.
 
-![Extent Report](docs/screenshots/extent-report.png)
+![Extent Report](Docs/screenshots/extent-report.png)
 
 ### Bug Report
 Example of manual testing bug documentation created during testing.
 
-![Bug Report](docs/screenshots/bug-report.png)
+![Bug Report](Docs/screenshots/bug-report.png)
 
 ## ✨ Features
 
